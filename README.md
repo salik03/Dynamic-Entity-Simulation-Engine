@@ -26,9 +26,9 @@ Ensure you have the following installed:
    git clone https://github.com/yourusername/DynamicEntitySimulationEngine.git
    ```
 2. **Open the project in Unity**:
-   - Launch Unity Hub.
-   - Add the cloned repository folder to your projects.
-   - Open the project and let Unity set up the environment.
+   - Launch Visual Studio Code
+   - Select Assembly-CSharp.csproj in the editor
+   - Under scripts select any script
 
 ## Development
 
